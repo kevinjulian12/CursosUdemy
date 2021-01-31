@@ -1,0 +1,17 @@
+body{
+    margin: 300px;
+    text-align: center;
+    }
+
+h1{border-radius: 10px ;  
+    font-size: 40px;
+    background-color:black;
+    color: cornflowerblue;
+    padding: 0%;
+    line-height: 100px;
+    border: cornflowerblue solid 2px;
+    width:200px;
+    border-width: 2px;
+    padding:10px;
+    margin-left: 300px;
+}   
